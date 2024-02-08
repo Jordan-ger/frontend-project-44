@@ -4,12 +4,16 @@
   "description": "",
   "main": "brain-games.js",
   "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
   "scripts": {
+    "start": "node bin/brain-games.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-  "bin": {
-    "brain-games": "bin/brain-games.js"
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
