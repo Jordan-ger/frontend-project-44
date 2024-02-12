@@ -1,6 +1,5 @@
 #!/usr/bin/env node
-import { getRandomNumber, getRandomIndex } from '../utils.js';
-import run from '../index.js';
+import run, { getRandomNumber, getRandomIndex } from '../index.js';
 
 const description = 'What is the result of the expression?';
 const operators = ['+', '-', '*'];

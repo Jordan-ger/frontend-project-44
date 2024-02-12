@@ -1,6 +1,5 @@
 #!/usr/bin/env node
-import { getRandomNumber, getRandomIndex } from '../utils.js';
-import run from '../index.js';
+import run, { getRandomNumber, getRandomIndex } from '../index.js';
 
 const description = 'What number is missing in the progression?';
 const minLength = 5;
