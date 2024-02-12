@@ -1,5 +1,5 @@
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/hellatriggeropp/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)]
+![Actions Status](https://github.com/hellatriggeropp/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)
 
 ![Asciinema salutation][https://asciinema.org/a/x7RuhCl2OjKeL9IgxSp0clwGC]
 
